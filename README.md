@@ -30,7 +30,7 @@
 
 ### 📫 Connect With Me
 - 🌐 [GitHub Profile](https://github.com/sheikh58)  
-- 💼 [LinkedIn](https://linkedin.com/in/your-link)  
+- 💼 [LinkedIn](https://linkedin.com/in/muhammad-rehman-dev)  
 - ✉️ Email: sheikhrehman5870@gmail.com
 
 ---
