@@ -29,9 +29,9 @@
 ---
 
 ### 📫 Connect With Me
-- 🌐 [GitHub Profile](https://github.com/your-username)  
+- 🌐 [GitHub Profile](https://github.com/sheikh58)  
 - 💼 [LinkedIn](https://linkedin.com/in/your-link)  
-- ✉️ Email: your.email@example.com  
+- ✉️ Email: sheikhrehman5870@gmail.com
 
 ---
 
