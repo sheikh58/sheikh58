@@ -23,6 +23,7 @@
 
 ### 📌 Featured Projects
 - 📱 **Phone Clone App** – A mobile application that allows users to seamlessly transfer contacts, messages, media, and apps from one phone to another with ease and reliability.
+- 🎨 **Thumbnail Maker App** – An easy-to-use app that helps users create professional and customized thumbnails for videos, presentations, and social media posts.  
 - 📊 **Custom Chart Renderer** – Extended MPAndroidChart with custom drawable elements  
 - ⌚ **WearOS Utility** – Experimenting with background workers and casting Azaans  
 
