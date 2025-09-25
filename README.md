@@ -22,7 +22,7 @@
 ---
 
 ### 📌 Featured Projects
-- 📱 **Chat App** – Built with RecyclerView + Flow for real-time updates  
+- 📱 **Phone Clone App** – A mobile application that allows users to seamlessly transfer contacts, messages, media, and apps from one phone to another with ease and reliability.
 - 📊 **Custom Chart Renderer** – Extended MPAndroidChart with custom drawable elements  
 - ⌚ **WearOS Utility** – Experimenting with background workers and casting Azaans  
 
